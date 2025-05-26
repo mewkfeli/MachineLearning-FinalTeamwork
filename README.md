@@ -14,4 +14,8 @@ The following key tasks are being solved within the framework of the project:
 
 − training and evaluation of the effectiveness of several classification algorithms;
 
-− expansion of the training program in
+− expansion of the training sample by parsing data from open sources using an iterative approach;
+
+− development of an API and graphical user application for interacting with the model;
+
+− preparation of program documentation and preparation of the final project report.
